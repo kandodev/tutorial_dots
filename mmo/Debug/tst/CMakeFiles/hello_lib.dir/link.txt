@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhello_lib.a CMakeFiles/hello_lib.dir/BlahTest.cpp.o
+/usr/bin/ranlib libhello_lib.a

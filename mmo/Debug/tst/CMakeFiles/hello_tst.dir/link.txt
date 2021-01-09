@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hello_tst.dir/BlahTest.cpp.o CMakeFiles/hello_tst.dir/main.cpp.o -o hello_tst  ../lib/libgtestd.a -lpthread 
